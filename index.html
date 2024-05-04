@@ -48,6 +48,43 @@
                 <p>On her instagram profile you can find a lot of recommendations on Korean and Asian literature, live talks with translators, movie reviews and much more.</p>
             </div>
         </section>
+        <section id="signup">
+            <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
+                <h2>Sign Up!</h2>
+                <h3>It's free for everyone!</h3>
+                <label for="first-name">First Name</label>
+                <input type="text" name="first_name" id="first-name" class="text-input" required>
+                <br>
+                <label for="last-name">Last Name</label>
+                <input type="text" name="last_name" id="last-name" class="text-input" required>
+                <br>
+                <label for="email-address">Email Address</label>
+                <input type="email" name="email_address" id="email-address" class="text-input" required>
+                <br>
+                <label for="favorite-book">Favorite Book</label>
+                <input type="text" name="favorite_book" id="favorite-book" class="text-input">
+                <br>
+                <div class="radio-buttons">
+                    <div>
+                        <label for="romantic">Romantic</label>
+                        <input type="radio" name="favorite_genre" id="romantic" value="romantic" required checked>
+                    </div>
+                    <div>
+                        <label for="fantasy">Fantasy</label>
+                        <input type="radio" name="favorite_genre" id="fantasy" value="fantasy" required>
+                    </div>
+                    <div>
+                        <label for="thriller">Thriller</label>
+                        <input type="radio" name="favorite_genre" id="thriller" value="thriller" required>
+                    </div>
+                    <div>
+                        <label for="other">Other</label>
+                        <input type="radio" name="favorite_genre" id="other" value="other" required>
+                    </div>
+                    <button type="submit" class="join-button">Let's Read!</button>
+                </div>
+            </form>
+        </section>
     </main>
 
     <!-- Footer -->
