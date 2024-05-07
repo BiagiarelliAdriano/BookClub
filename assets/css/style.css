@@ -27,7 +27,7 @@ h1, h2 {
 
 /* Header */
 header {
-    background-color: #ffffff;
+    background-color: #77DD77;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -56,7 +56,7 @@ header a {
 /* Navbar styles with dropwdown toggle */
 nav {
     position: absolute;
-    background-color: #ffffff;
+    background-color: #77DD77;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -86,6 +86,7 @@ main {
     /* Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
+    background-color: #FDFD96;
 }
 
 /* Hero section */
@@ -210,7 +211,8 @@ main {
     padding: 20px 0;
     display: flex;
     justify-content: space-evenly;
-    list-style-type: none;  
+    list-style-type: none;
+    background-color: #B7FFFA;
 }
 
 #social-networks i {
