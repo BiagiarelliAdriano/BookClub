@@ -76,6 +76,7 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
+    margin-top: 2px;
 }
 
 /* Main content */
@@ -290,5 +291,11 @@ main {
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
+        color: red;
+    }
+
+    #social-networks a:hover {
+        border-bottom: 1px solid #3a3a3a;
+        color: magenta;
     }
 }
