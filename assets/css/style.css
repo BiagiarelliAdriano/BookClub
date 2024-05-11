@@ -138,8 +138,8 @@ main {
 
 /* Book examples */
 .book-example {
-    width: 70%;
-    margin: 50px;
+    width: 90%;
+    margin: 20px;
 }
 
 .book-example h2 {
@@ -148,6 +148,24 @@ main {
 
 .book-example-description {
     text-align: center;
+}
+
+.circle-cover-bg {
+    background: url('../images/themagicallanguageofothers.jpg') no-repeat center / cover;
+    height: 80vw;
+    width: 80vw;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    /* Makes the square image into a circle */
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.book-example-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* Form */
