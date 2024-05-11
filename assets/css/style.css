@@ -279,6 +279,13 @@ main {
         right: 50px;
     }
 
+    /* Book Examples */
+    .book-example {
+        width: 50%;
+        margin-left: 30px;
+        font-size: 90%;
+    }
+
     /* Form */
     #signup {
         background-position: center;
