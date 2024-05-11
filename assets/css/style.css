@@ -136,6 +136,20 @@ main {
     text-align: center;
 }
 
+/* Book examples */
+.book-example {
+    width: 70%;
+    margin: 50px;
+}
+
+.book-example h2 {
+    text-align: center;
+}
+
+.book-example-description {
+    text-align: center;
+}
+
 /* Form */
 #signup {
     padding: 20px 10% 4rem 10%;
