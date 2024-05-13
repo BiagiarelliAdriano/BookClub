@@ -311,7 +311,7 @@ main {
 
     /* Book Examples */
     .book-example {
-        font-size: 90%;
+        font-size: 100%;
         display: flex;
         position: relative;
         margin: 0 auto;
@@ -364,6 +364,11 @@ main {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
         color: red;
+    }
+
+    .book-example {
+        font-size: 100%;
+        padding-top: 3rem;
     }
 
     #social-networks a:hover {
