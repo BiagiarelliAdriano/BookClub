@@ -232,7 +232,7 @@ main {
     width: 90%;
     margin: 50px auto;
     color: #ffffff;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(60, 60, 60, 0.8);
     padding: 30px;
 }
 
@@ -371,6 +371,18 @@ main {
         background-color: #fafafa;
         color: #454b1b;
     }
+
+    #contact-us-main {
+        background-position: center;
+        position: relative;
+    }
+
+    #contact-us {
+        max-width: 400px;
+        position: absolute;
+        left: 10%;
+        top: 150px;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -388,5 +400,10 @@ main {
     #social-networks a:hover {
         border-bottom: 1px solid #3a3a3a;
         color: magenta;
+    }
+
+    #contact-us {
+        left: 10%;
+        top: 300px;
     }
 }
