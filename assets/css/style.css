@@ -218,6 +218,14 @@ main {
     background-color: #ffcba9;
 }
 
+/* Contact Us Background */
+#contact-us-main {
+    background-image: url("../images/backgroundwithcat.jpg");
+    background-size: cover;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+
 /* Contact Us */
 #contact-us {
     width: 90%;
