@@ -220,8 +220,9 @@ main {
 
 /* Contact Us Background */
 #contact-us-main {
-    background-image: url("../images/backgroundwithcat.jpg");
+    background-image: url("../images/backgroundnabibookclub.jpg");
     background-size: cover;
+    background-position: 75%;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
 }
@@ -230,18 +231,22 @@ main {
 #contact-us {
     width: 90%;
     margin: 50px auto;
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 30px;
 }
 
 #contact-us h2 {
     margin-bottom: 20px;
     text-align: center;
-    font-size: 280%;
+    font-size: 200%;
+    color: #ffffff;
 }
 
 #contact-us h3 {
     margin-bottom: 20px;
     text-align: center;
-    font-size: 210%;
+    font-size: 150%;
 }
 
 #contact-us-description > div {
@@ -252,6 +257,7 @@ main {
 #contact-us-description p {
     padding: 0 20px;
     text-align: center;
+    font-size: 110%;
 }
 
 /* Footer */
