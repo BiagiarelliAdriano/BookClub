@@ -27,3 +27,8 @@ This book club is dedicated to reading and discussing about Korean literature tr
 ![enter image description here](https://i.ibb.co/k8rvXLk/nabibookclubaboutus.png)
 
 ![enter image description here](https://i.ibb.co/8M0qPXt/nabibookclubbooksexamples.png)
+
+ - Sign Up Section
+	 - This Sign Up section will allow the user to get signed up to Nabi Book Club to start exploring Korean literature together with the community. The user will be able to share what their favorite book is and what genre of books they are more interested in. The user will be asked to submit their full name and email address.
+
+![enter image description here](https://i.ibb.co/5hQXYYT/nabibookclubsignup.png)
