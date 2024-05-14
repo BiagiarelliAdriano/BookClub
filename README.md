@@ -14,3 +14,8 @@ This book club is dedicated to reading and discussing about Korean literature tr
 	 - This section has visual response in the terms on hovering effects on desktop for a better user experience.
 
 ![enter image description here](https://i.ibb.co/JBrprVm/nabibookclubnav.png)
+
+ - Hero Section
+	 - The Hero section introduces the user to Nabi Book Club with an image with vibrant colors and text overlay to immediately know what the page is about.
+
+![enter image description here](https://i.ibb.co/c6FRYGr/nabibookclubhero.png)
