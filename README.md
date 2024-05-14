@@ -19,3 +19,11 @@ This book club is dedicated to reading and discussing about Korean literature tr
 	 - The Hero section introduces the user to Nabi Book Club with an image with vibrant colors and text overlay to immediately know what the page is about.
 
 ![enter image description here](https://i.ibb.co/c6FRYGr/nabibookclubhero.png)
+
+ - About Us Section
+	 - The About Us describes to the user what Nabi Book Club is and what they will find once they join.
+	 - This section also includes some examples of what type of books people are going to read in this book club, including descriptions of the books and images of the cover of the books.
+
+![enter image description here](https://i.ibb.co/k8rvXLk/nabibookclubaboutus.png)
+
+![enter image description here](https://i.ibb.co/8M0qPXt/nabibookclubbooksexamples.png)
