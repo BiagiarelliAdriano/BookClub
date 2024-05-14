@@ -39,3 +39,9 @@ This book club is dedicated to reading and discussing about Korean literature tr
 	 - This section also has visual response in the terms on hovering effects on desktop for a better user experience.
 
 ![enter image description here](https://i.ibb.co/HtdbLSy/nabibookclubfooter.png)
+
+ - The Contact Us page
+	 - This page includes an introductory image to Nabi Book Club 2024 with text overlay explaining what to do to contact the host and members of Nabi Book Club.
+	 - In this page the user will more easily be welcomed to the footer, which will be directly in sight for them.
+
+![enter image description here](https://i.ibb.co/q5C4FV9/nabibookclubcontactus.png)
