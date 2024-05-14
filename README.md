@@ -32,3 +32,10 @@ This book club is dedicated to reading and discussing about Korean literature tr
 	 - This Sign Up section will allow the user to get signed up to Nabi Book Club to start exploring Korean literature together with the community. The user will be able to share what their favorite book is and what genre of books they are more interested in. The user will be asked to submit their full name and email address.
 
 ![enter image description here](https://i.ibb.co/5hQXYYT/nabibookclubsignup.png)
+
+ - The Footer
+	 - The Footer section includes links to the relevant social media sites for Nabi Book Club. It includes Nabi Book Club Instagram profile, Nabi Book Club Discord Server and Elisa Biagiarelli's Instagram profile, the host of Nabi Book Club. The links will open to a new tab to allow easy navigation for the user.
+	 - The Footer is valuable to the user as it encourages them to keep connected via social media.
+	 - This section also has visual response in the terms on hovering effects on desktop for a better user experience.
+
+![enter image description here](https://i.ibb.co/HtdbLSy/nabibookclubfooter.png)
