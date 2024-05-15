@@ -139,3 +139,11 @@ Used to write Readme file.
 For general instructions on how to position images next to text with CSS.
 ### Code Institute
 Project created in line with course content and within project 1 scope.
+
+## Acknowledgments
+### Elisa Biagiarelli
+For allowing her images to be used, to allow the project to be based on her Book Club and for all the support.
+### Alan Bushell
+My mentor who provided me with constructive feedback and positive reinforcement where applicable.
+### My parents
+For always believing and supporting me in all that I do.
