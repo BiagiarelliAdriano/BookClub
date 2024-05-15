@@ -121,3 +121,17 @@ hero: Photo by Elisa Biagiarelli <br>
 the magical language of others: (https://www.instagram.com/p/CN7yihGHFzN/) <br>
 in limbo: (https://www.instagram.com/p/C6TSNGSt-Kw/) <br>
 contact us page background: (https://www.instagram.com/p/C1kBrwQouqD/)
+
+## Content & Resources
+### Elisa Biagiarelli's Instagram
+Images used in this project.
+### W3 Schools
+Instructions on how to implement input pattern attribute for the Sign Up form.
+### W3C Markup Validation Service
+Used to validate HTML code.
+### W3C CSS Validation Service
+Used to validate CSS code.
+### ChatGPT
+For general instructions on how to position images next to text with CSS.
+### Code Institute
+Project created in line with course content and within project 1 scope.
