@@ -79,3 +79,6 @@ Used to optimize and compress images to reduce size and improve web loading spee
 ![google lighthouse test for main page](https://i.ibb.co/Fz427GL/indexhtmllighthousetest.png)
 
 The Performance score is due to the size of the Hero background image.
+
+### contactus.html
+![google lighthouse test for contact us page](https://i.ibb.co/gwxtrZJ/contactuslighthousetest.png)
