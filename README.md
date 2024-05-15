@@ -133,6 +133,8 @@ Instructions on how to implement input pattern attribute for the Sign Up form.
 Used to validate HTML code.
 ### W3C CSS Validation Service
 Used to validate CSS code.
+### StackEdit
+Used to write Readme file.
 ### ChatGPT
 For general instructions on how to position images next to text with CSS.
 ### Code Institute
