@@ -72,3 +72,10 @@ Used to optimize and compress images to reduce size and improve web loading spee
 | Contact Us element in the navigation bar opens the Contact Us page | Click on Contact us in the navigation bar | The user is directly brough in the Contact Us page opening in a new tab and keeping the main page open | Pass |
 | Sign Up section lets users sign up by giving only essential informations to join the Nabi Book Club, without being able to provide bad data | Omit data from one or multiple sections, try to submit data only containing spaces and not actual writing, try to omit the @ symbol in the email section | Users can only submit when all the required sections are compiled with actual formatting for the text and email sections | Pass |
 | Footer elements will open up in a new tab the correct links connected to Nabi Book Club Instagram profile, Nabi Book Club Discord Server and Elisa Biagiarelli's Instagram profile | Click on the Footer elements with the icons | Opens in a new tab the correct page connected to the correct links of the Footer | Pass |
+
+## Google Lighthouse Testing
+
+### index.html
+![google lighthouse test for main page](https://i.ibb.co/Fz427GL/indexhtmllighthousetest.png)
+
+The Performance score is due to the size of the Hero background image.
