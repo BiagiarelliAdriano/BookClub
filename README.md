@@ -53,20 +53,22 @@ This book club is dedicated to reading and discussing about Korean literature tr
 
 ## Technology Used
 ### Html
-> Used to structure the webpages and the bones of any web project.
+Used to structure the webpages and the bones of any web project.
 ### CSS
-> Used to style and add layout to the project.
+Used to style and add layout to the project.
 ### Font Awesome
-> Used for all the icons in the project.
+Used for all the icons in the project.
 ### GoogleFonts
-> Used for all the fonts used in the project and to compare potential fonts.
+Used for all the fonts used in the project and to compare potential fonts.
 ### TinyPNG
-> Used to optimize and compress images to reduce size and improve web loading speed.
+Used to optimize and compress images to reduce size and improve web loading speed.
 
-## Testing
-Testing on this project was mainly done manually by myself, by my mentor Alan Bushell and by my family, to determine site usability, responsiveness and ensure that every feature works appropriately.
+### Testing for links and Sign Up
 | Feature | Test Method | Expectation | Outcome |
 |---|---|---|---|
-| Logo text Nabi Book Club brings the user to the main page | Click on Nabi Book Club in the navigation bar | Reload the page or change page to the main page | If the user is already within the main page, the page simply reloads. If not, the main page will be loaded. |
-| About Us element on navigation bar brings the user view to the About Us section of the main page | Click on About Us in the navigation bar | Move the page to the About Us section | Directly moves the view of the user to the About Us section |
-| Sign Up element on navigation bar brings the user view to the Sign Up section of the main page | Click on Sign Up in the navigation bar | Move the page to the Sign Up section | Directly moves the view of the user to the Sign Up section |
+| Logo text Nabi Book Club brings the user to the main page | Click on Nabi Book Club in the navigation bar | If the user is already within the main page, the page simply reloads. If not, the main page will be loaded.| Pass |
+| About Us element on navigation bar brings the user view to the About Us section of the main page | Click on About Us in the navigation bar | Directly moves the view of the user to the About Us section | Pass |
+| Sign Up element on navigation bar brings the user view to the Sign Up section of the main page | Click on Sign Up in the navigation bar | Directly moves the view of the user to the Sign Up section | Pass |
+| Contact Us element in the navigation bar opens the Contact Us page | Click on Contact us in the navigation bar | The user is directly brough in the Contact Us page opening in a new tab and keeping the main page open | Pass |
+| Sign Up section lets users sign up by giving only essential informations to join the Nabi Book Club, without being able to provide bad data | Omit data from one or multiple sections, try to submit data only containing spaces and not actual writing, try to omit the @ symbol in the email section | Users can only submit when all the required sections are compiled with actual formatting for the text and email sections | Pass |
+| Footer elements will open up in a new tab the correct links connected to Nabi Book Club Instagram profile, Nabi Book Club Discord Server and Elisa Biagiarelli's Instagram profile | Click on the Footer elements with the icons | Opens in a new tab the correct page connected to the correct links of the Footer | Pass |
