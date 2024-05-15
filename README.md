@@ -62,6 +62,8 @@ Used for all the icons in the project.
 Used for all the fonts used in the project and to compare potential fonts.
 ### TinyPNG
 Used to optimize and compress images to reduce size and improve web loading speed.
+### ImgBB
+Used to add images to the Readme file.
 
 ### Testing for links and Sign Up
 | Feature | Test Method | Expectation | Outcome |
