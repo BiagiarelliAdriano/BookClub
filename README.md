@@ -82,3 +82,8 @@ The Performance score is due to the size of the Hero background image.
 
 ### contactus.html
 ![google lighthouse test for contact us page](https://i.ibb.co/gwxtrZJ/contactuslighthousetest.png)
+
+## HTML Validation
+### index.html
+![html validation for index.html](https://i.ibb.co/ySzx3X4/htmlvalidatortest.png)
+**Result: No Errors**
