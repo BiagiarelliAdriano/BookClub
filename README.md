@@ -62,3 +62,11 @@ This book club is dedicated to reading and discussing about Korean literature tr
 > Used for all the fonts used in the project and to compare potential fonts.
 ### TinyPNG
 > Used to optimize and compress images to reduce size and improve web loading speed.
+
+## Testing
+Testing on this project was mainly done manually by myself, by my mentor Alan Bushell and by my family, to determine site usability, responsiveness and ensure that every feature works appropriately.
+| Feature | Test Method | Expectation | Outcome |
+|---|---|---|---|
+| Logo text Nabi Book Club brings the user to the main page | Click on Nabi Book Club in the navigation bar | Reload the page or change page to the main page | If the user is already within the main page, the page simply reloads. If not, the main page will be loaded. |
+| About Us element on navigation bar brings the user view to the About Us section of the main page | Click on About Us in the navigation bar | Move the page to the About Us section | Directly moves the view of the user to the About Us section |
+| Sign Up element on navigation bar brings the user view to the Sign Up section of the main page | Click on Sign Up in the navigation bar | Move the page to the Sign Up section | Directly moves the view of the user to the Sign Up section |
