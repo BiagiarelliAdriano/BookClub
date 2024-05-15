@@ -113,3 +113,11 @@ To deploy the project I followed these steps starting from the main project repo
  5. Selected Save.
 
 I then received a notification from GitHub that my project is being deployed and after about 1 minute and a couple of refreshes of the page, it was ready and live.
+
+## Credits
+### All images were made by Elisa Biagiarelli. Links for available images included below
+
+hero: Photo by Elisa Biagiarelli <br>
+the magical language of others: (https://www.instagram.com/p/CN7yihGHFzN/) <br>
+in limbo: (https://www.instagram.com/p/C6TSNGSt-Kw/) <br>
+contact us page background: (https://www.instagram.com/p/C1kBrwQouqD/)
