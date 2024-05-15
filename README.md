@@ -45,3 +45,8 @@ This book club is dedicated to reading and discussing about Korean literature tr
 	 - In this page the user will more easily be welcomed to the footer, which will be directly in sight for them.
 
 ![the nabi book club contact us page](https://i.ibb.co/q5C4FV9/nabibookclubcontactus.png)
+
+### Features To Implement In The Future
+
+ - When interacting with the navbar items, instead of directly appearing in the selected section, the page will scroll through the page and stop once it reaches the selected section. It will be a smoother and overall better user experience.
+ - Add more book examples, with even a top 10 book recommendation to get into the Korean literature.
