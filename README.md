@@ -50,3 +50,15 @@ This book club is dedicated to reading and discussing about Korean literature tr
 
  - When interacting with the navbar items, instead of directly appearing in the selected section, the page will scroll through the page and stop once it reaches the selected section. It will be a smoother and overall better user experience.
  - Add more book examples, with even a top 10 book recommendation to get into the Korean literature.
+
+## Technology Used
+### Html
+> Used to structure the webpages and the bones of any web project.
+### CSS
+> Used to style and add layout to the project.
+### Font Awesome
+> Used for all the icons in the project.
+### GoogleFonts
+> Used for all the fonts used in the project and to compare potential fonts.
+### TinyPNG
+> Used to optimize and compress images to reduce size and improve web loading speed.
