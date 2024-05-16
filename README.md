@@ -62,6 +62,8 @@ Used for all the icons in the project.
 Used for all the fonts used in the project and to compare potential fonts.
 ### TinyPNG
 Used to optimize and compress images to reduce size and improve web loading speed.
+### ImgBB
+Used to add images to the Readme file.
 
 ### Testing for links and Sign Up
 | Feature | Test Method | Expectation | Outcome |
@@ -72,3 +74,76 @@ Used to optimize and compress images to reduce size and improve web loading spee
 | Contact Us element in the navigation bar opens the Contact Us page | Click on Contact us in the navigation bar | The user is directly brough in the Contact Us page opening in a new tab and keeping the main page open | Pass |
 | Sign Up section lets users sign up by giving only essential informations to join the Nabi Book Club, without being able to provide bad data | Omit data from one or multiple sections, try to submit data only containing spaces and not actual writing, try to omit the @ symbol in the email section | Users can only submit when all the required sections are compiled with actual formatting for the text and email sections | Pass |
 | Footer elements will open up in a new tab the correct links connected to Nabi Book Club Instagram profile, Nabi Book Club Discord Server and Elisa Biagiarelli's Instagram profile | Click on the Footer elements with the icons | Opens in a new tab the correct page connected to the correct links of the Footer | Pass |
+
+## Google Lighthouse Testing
+
+### index.html
+![google lighthouse test for main page](https://i.ibb.co/Fz427GL/indexhtmllighthousetest.png)
+
+The Performance score is due to the size of the Hero background image.
+
+### contactus.html
+![google lighthouse test for contact us page](https://i.ibb.co/gwxtrZJ/contactuslighthousetest.png)
+
+## HTML Validation
+### index.html
+![html validation for index.html](https://i.ibb.co/ySzx3X4/htmlvalidatortest.png)
+**Result: No Errors**
+
+### contactus.html
+![html validation for contactus.html](https://i.ibb.co/GP0s5xX/contactushtmlvalidation.png)
+**Result: No Errors**
+
+## CSS Validation
+![css validation](https://i.ibb.co/FX9dDg0/cssvalidation.png)
+**Result: No Errors**
+
+## Bugs
+
+ - Issue with Navigation Bar color background overlapping Main Content. **fixed**
+ - Issue with Favicons in Footer elements not centering correctly. **fixed**
+ - Issues with images for the book examples in the About Us section not going correctly to the side of the text. **fixed**
+ - Image not in correct aspect ratio for the Contact Us page. **fixed**
+
+## Deployment
+To deploy the project I followed these steps starting from the main project repository [here](https://github.com/BiagiarelliAdriano/BookClub).
+
+ 1. Clicked on `Settings` on the navigation menu in the repository.
+ 2. I then selected the `Pages` menu on the side bar.
+ 3. In the first dropdown menu labeled `Source` I selected the branch of the name `main` from the dropdown.
+ 4. In the next dropdown labeled `/root` I left as the default option.
+ 5. Selected Save.
+
+I then received a notification from GitHub that my project is being deployed and after about 1 minute and a couple of refreshes of the page, it was ready and live.
+
+## Credits
+### All images were made by Elisa Biagiarelli. Links for available images included below
+
+hero: Photo by Elisa Biagiarelli <br>
+the magical language of others: (https://www.instagram.com/p/CN7yihGHFzN/) <br>
+in limbo: (https://www.instagram.com/p/C6TSNGSt-Kw/) <br>
+contact us page background: (https://www.instagram.com/p/C1kBrwQouqD/)
+
+## Content & Resources
+### Elisa Biagiarelli's Instagram
+Images used in this project.
+### W3 Schools
+Instructions on how to implement input pattern attribute for the Sign Up form.
+### W3C Markup Validation Service
+Used to validate HTML code.
+### W3C CSS Validation Service
+Used to validate CSS code.
+### StackEdit
+Used to write Readme file.
+### ChatGPT
+For general instructions on how to position images next to text with CSS.
+### Code Institute
+Project created in line with course content and within project 1 scope.
+
+## Acknowledgments
+### Elisa Biagiarelli
+For allowing her images to be used, to allow the project to be based on her Book Club and for all the support.
+### Alan Bushell
+My mentor who provided me with constructive feedback and positive reinforcement where applicable.
+### My parents
+For always believing and supporting me in all that I do.
