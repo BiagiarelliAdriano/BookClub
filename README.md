@@ -138,7 +138,7 @@ Used to write Readme file.
 ### ChatGPT
 For general instructions on how to position images next to text with CSS.
 ### Code Institute
-Project created in line with course content and within project 1 scope.
+Project created in line with course content and within project 1 scope. Using some of the code instructed in the Love Running Project Walkthrough.
 
 ## Acknowledgments
 ### Elisa Biagiarelli
